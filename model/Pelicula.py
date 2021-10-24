@@ -1,4 +1,5 @@
 class Pelicula:
+    id: str
     nombre: str
     portada: str
     descripcion: str
